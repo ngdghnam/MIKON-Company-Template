@@ -1,0 +1,9 @@
+{
+    "appName": "Mikon Template",
+    "client": {
+        "header": "Header nè",
+        "footer": "Footer nè",
+        "button": "Nút bấm"
+    },
+    "admin": {}
+}

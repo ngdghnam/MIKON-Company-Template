@@ -1,0 +1,9 @@
+{
+    "appName": "Modèle Mikon",
+    "client": {
+        "header": "en-tête",
+        "footer": "pied de page",
+        "button": "bouton"
+    },
+    "admin": {}
+}
