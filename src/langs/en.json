@@ -1,9 +1,9 @@
 {
-    "appName": "Mikon Template",
-    "client": {
-        "header": "header",
-        "footer": "footer",
-        "button": "button"
-    },
-    "admin": {}
+  "appName": "Mikon Template",
+  "client": {
+    "header": "header",
+    "footer": "footer",
+    "button": "button"
+  },
+  "admin": {}
 }
