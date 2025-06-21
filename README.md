@@ -42,11 +42,13 @@
         * **Mục đích**: Có những hàm sẽ được sử dụng liên tục trong suốt quá trình làm việc với dự án. Những hàm đó sẽ được lưu trong thư mục này để có thể dễ dàng lấy ra sử dụng 
         * **Ví dụ**: Hàm `hash_password` được sử dụng để mã hóa mật khẩu
     * **server-actions**
-        * **Mục đích**: 
+        * **Mục đích**: Chứa các hàm bất đồng bộ chạy phía server sử dụng tính năng `server actions` của Next.js. 
     * **services** 
-        * **Mục đích** 
+        * **Mục đích**: Chứa các service xử lý logic nghiệp vụ hoặc gọi API.
         * **Cách sử dụng**
-        * **Ví dụ**
+        * **Ví dụ**:
+            - `auth.service.ts`: xử lý xác thực người dùng.
+            - `user.service.ts`: lấy dữ liệu người dùng.
 
 #### `components.json` 
 * **Mục đích**: File này sẽ được tự động tạo ra khi bạn cài đặt ShadcnUI, trong file này sẽ chứa các cấu hình mà bạn chọn cho ShadcnUi để phù hợp với phong cách thiết kế giao diện của bạn.
