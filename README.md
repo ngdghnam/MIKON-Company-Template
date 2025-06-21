@@ -58,7 +58,6 @@
 * **Ví dụ**: cấu hình i18n được sử dụng.
 
 #### Cài đặt ShadcnUI với yarn [Tham khảo]
-* **Mục đích**:
 * **Hướng dẫn cài đặt**:
 
     Hiện nay, trên trang chủ của ShadcnUI, để cài đặt với yarn thì sẽ gõ lệnh `yarn shadcn@latest init`. Tuy nhiên, khi gõ lệnh này, sẽ có 1 số máy bị lỗi và báo ko thể nhận diện.
