@@ -16,6 +16,7 @@
     * **app/**: 
         * **Các đường dẫn**:
             * **Mục đích**: Nextjs hỗ trợ router mà không cần phải cài đặt quá như React. Để tạo 1 folder chứa các page khác bạn cần 1 cặp ngoặc tròn `()` bọc trong tên folder, ví dụ: `(auth)`.
+            * **Cách sử dụng**: Tương tự, chúng ta sẽ tạo ra các folder khác để phục vụ cho nhiều đường dẫn khác nhau tùy vào mục đích sử dụng của chúng ta.
         * `page.tsx`: File nguồn chứa toàn bộ code mà chúng ta sẽ render lên FE
         * `layout.tsx`: Layout chung cho toàn bộ project
         * `global.css`: Code CSS chung được định nghĩa để áp dụng lên mọi file
